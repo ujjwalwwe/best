@@ -1,0 +1,97 @@
+
+body{
+   background-image: url(1.jpg);
+    background-size: cover;
+
+}
+
+.main1{
+   
+    size: relative;
+     width: 100px;
+    height :200px;
+}
+
+@media (width <= 320px){
+   .main1{
+    max-width: 30%;
+    height: 10%;
+  
+   }
+}
+
+.main2{
+    size: relative;
+    width: 100px;
+    height :200px;
+}
+
+@media (width <= 320px){
+   .main2{
+    max-width: 30%;
+    height: 10%;
+    l
+   }
+}
+.main3{
+    size: relative;
+    width: 100px;
+    height :200px;
+}
+
+
+@media (width <= 320px){
+   .main3{
+    max-width: 30%;
+    height: 10%;
+    
+   }
+}
+
+.cn1{
+   position:relative;
+   right : 200px;
+   top: 20px;
+   background-color: chocolate;
+}
+
+.cn2{
+    position:relative;
+   right : 200px;
+   top: 20px;
+   background-color: chocolate;
+   
+}
+
+.cn3{
+     position:relative;
+   right : 200px;
+   top: 20px;
+   background-color: chocolate;
+   
+
+}
+
+.cn1a{
+    position:relative;
+    right: 300px;
+    top:50px;
+    background-color: brown;
+
+}
+
+.cn2a{
+    position:relative;
+    right: 300px;
+    top:50px;
+    background-color: brown;
+
+}
+
+.cn3a{
+    position:relative;
+    right: 300px;
+    top:50px;
+    background-color: brown;
+
+}
